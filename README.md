@@ -9,19 +9,19 @@ _Parketeria is a mobile & web cross‑platform AI‑powered solution that consol
 
 # Key Features & Functionalities
 _**B2C (Drivers & EV Owners)**_
-**- Real‑Time Slot Finder:** Yolov5‑powered live map of available spaces.
-**- Instant Booking & Navigation:** Book spots and get turn‑by‑turn directions through Google Maps.
-**- Alternative Proposals:** Auto‑fallback to adjacent lots when selected areas are full.
-**- EV Charger Locator:** Real‑time status of charging points with queuing and maintenance notifications.
-**- Crowdsourced Incident Alerts:** Community‑reported accidents, congestion, and roadblocks.
-**- Eco‑Incentives:** Gamified incentives for green actions (e.g., EV usage, Park‑&‑Ride).
+- **Real‑Time Slot Finder:** Yolov5‑powered live map of available spaces.
+- **Instant Booking & Navigation:** Book spots and get turn‑by‑turn directions through Google Maps.
+- **Alternative Proposals:** Auto‑fallback to adjacent lots when selected areas are full.
+- **EV Charger Locator:** Real‑time status of charging points with queuing and maintenance notifications.
+- **Crowdsourced Incident Alerts:** Community‑reported accidents, congestion, and roadblocks.
+- **Eco‑Incentives:** Gamified incentives for green actions (e.g., EV usage, Park‑&‑Ride).
 
 _**B2B (Operators & Authorities)**_
-**- Real‑Time Monitoring:** AI & CCTV slot monitoring and occupancy dashboards for parking lot operators.
-**- Dynamic Pricing Engine:** Demand‑responsive tariffs and tiered access packages for parking slots.
-**- License‑Plate Recognition:** Automated security screening and violation identification in parking areas.
-**- Traffic Forecasting & Analytics:** Predictive congestion models for adaptive signal timing to inform the authorities of the region.
-**- Data Sharing apis:** Connect live parking & traffic feeds to city planning tools and third‑party fleet services.
+- **Real‑Time Monitoring:** AI & CCTV slot monitoring and occupancy dashboards for parking lot operators.
+- **Dynamic Pricing Engine:** Demand‑responsive tariffs and tiered access packages for parking slots.
+- **License‑Plate Recognition:** Automated security screening and violation identification in parking areas.
+- **Traffic Forecasting & Analytics:** Predictive congestion models for adaptive signal timing to inform the authorities of the region.
+- **Data Sharing apis:** Connect live parking & traffic feeds to city planning tools and third‑party fleet services.
 
 
 
