@@ -1,6 +1,6 @@
 # Parketeria
 
-**Parketeria is a mobile & web cross‑platform AI‑powered solution that consolidates parking discovery, EV‑charging, and traffic management into one mobility ecosystem. End users immediately discover and book parking, find local EV charging points, and get AI‑enabled route guidance. Municipal governments and parking authorities obtain real‑time monitoring, predictive traffic analysis, and automated enforcement capabilities—all built on scalable cloud services **
+_Parketeria is a mobile & web cross‑platform AI‑powered solution that consolidates parking discovery, EV‑charging, and traffic management into one mobility ecosystem. End users immediately discover and book parking, find local EV charging points, and get AI‑enabled route guidance. Municipal governments and parking authorities obtain real‑time monitoring, predictive traffic analysis, and automated enforcement capabilities—all built on scalable cloud services_
 
 # Key Selling Points
 - All-In-One Mobility Hub: Integrates vacant-slot detection, dynamic pricing, crowdsourced traffic information, and EV-charger navigation into a single app—beating separate parking or charging utilities.
