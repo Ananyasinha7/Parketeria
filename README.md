@@ -24,7 +24,11 @@ _**B2B (Operators & Authorities)**_
 - **Data Sharing apis:** Connect live parking & traffic feeds to city planning tools and third‑party fleet services.
 
 
-
+# Problems we are solving:
+- **Unregulated Parking:** Helps users avoid chaos and mafias charging random fees.
+- **EV Challenges:** Makes it easier to find EV charging stations nearby.
+- **Traffic Congestion:** Uses real-time data and AI to reduce traffic buildup by alerting the authorities regarding the same.
+- **Streamlined Parking Management:** Parking lot operators are able to manage there parking areas in a streamlined manner and with reduced manpower.
 
 
 
