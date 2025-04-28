@@ -32,7 +32,8 @@ _**B2B (Operators & Authorities)**_
 
 
 # UI
-![image](https://github.com/user-attachments/assets/3825143b-ef02-4bdc-9b32-d7a943cab079)
-![image](https://github.com/user-attachments/assets/76a7eae6-137f-49a0-9153-0b99d9cf45be)
+![image](https://github.com/user-attachments/assets/bb568afe-678d-460e-b576-261482277937)
+
+![image](https://github.com/user-attachments/assets/28b535e7-9927-4299-8d92-7cf9e4cee370)
 
 
