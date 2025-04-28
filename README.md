@@ -31,5 +31,8 @@ _**B2B (Operators & Authorities)**_
 - **Streamlined Parking Management:** Parking lot operators are able to manage there parking areas in a streamlined manner and with reduced manpower.
 
 
+# UI
+![image](https://github.com/user-attachments/assets/3825143b-ef02-4bdc-9b32-d7a943cab079)
+![image](https://github.com/user-attachments/assets/76a7eae6-137f-49a0-9153-0b99d9cf45be)
 
 
