@@ -35,8 +35,7 @@ _**B2B (Operators & Authorities)**_
 ![image](https://github.com/user-attachments/assets/7fd8e032-13a0-43cb-9e37-3c3fa3f895f9)
 
 # Tech Architecture/DFD:
-![image](https://github.com/user-attachments/assets/7752c779-cc9b-4e57-8178-015a955153ea)
-
+![image](https://github.com/user-attachments/assets/a662c3bf-5025-432b-8a9c-7f16429b1977)
 
 
 # UI
